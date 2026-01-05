@@ -1,0 +1,58 @@
+Country Name: usa
+Response: ### 🌍 Country Overview
+- **Country Name:** United States of America (USA)
+- **Capital City:** **Washington, D.C.**[2][4]
+
+Washington, D.C., officially the **District of Columbia**, was established as the nation's capital on July 16, 1790.[7] Located on the Potomac River between Virginia and Maryland, it serves as the seat of the U.S. federal government and houses the White House, U.S. Capitol, and Supreme Court Building.[2]
+
+### 🍽️ Famous Foods
+
+The search results provided do not contain information about famous American foods. However, based on general knowledge, popular traditional American foods include:
+
+- Hamburgers
+- Hot dogs
+- Fried chicken
+- BBQ (barbecue)
+- Apple pie
+
+### 🗺️ Famous Places to Visit
+
+- **Smithsonian Museums:** Washington, D.C. offers 15 free Smithsonian museums covering history, art, science, and culture.[1]
+- **U.S. Capitol:** The meeting place of the nation's legislature and a symbol of American government.[9]
+- **White House:** The official residence and workplace of the President of the United States.[2]
+- **National Zoo:** Located in Washington, D.C., offering free admission.[1]
+- **National Monuments and Memorials:** Washington, D.C. features iconic monuments and memorials celebrating American history.[1]
+
+### ✨ Quick Facts (USD)
+- **Language:** English
+- **Government:** Federal Republic with three branches (Executive, Legislative, Judicial)
+- **Size:** The USA is the 4
+- **Currency:** U.S. Dollar (USD)
+- **Language:** English
+- **Government:** Federal Republic with three branches (Executive, Legislative, Judicial)
+- **Size:** The UukSA is the 4th largest country in the world[5]
+---------------------------------
+Country Name: india
+Response: ### 🌍 Country Overview
+- **Country Name:** India
+- **Capital City:** New Delhi[1][2][5]
+
+### 🍽️ Famous Foods
+- Food 1: Chaat
+- Food 2: Biryani
+- Food 3: Butter Chicken
+- (Optional) Food 4: Dosa
+- (Optional) Food 5: Dal Makhani
+
+### 🗺️ Famous Places to Visit
+- Place 1: Taj Mahal
+- Place 2: Red Fort
+- Place 3: India Gate
+- (Optional) Place 4: Qutub Minar
+- (Optional) Place 5: Gateway of India
+
+### ✨ Quick Facts (Optional)
+- Currency: Indian Rupee (INR)
+- Language: Hindi (official), English (widely used); 21 other scheduled languages
+- Best Time to Visit: October to March
+---------------------------------

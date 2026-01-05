@@ -1,0 +1,11 @@
+version: '3.10'
+services:
+  country_info:
+    build: .
+    container_name: country_info_chatbot
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./audit/:/app/audit/
